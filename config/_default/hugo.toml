@@ -1,4 +1,4 @@
-baseURL = "https://gohugo.io"
+baseURL = "https://firdausbluesify.github.io/blusifyblog.github.io/"
 title = "Bluesify Blog"
 copyright = "Bluesify Solutions | By Firdaus Khairuddin, Aizzat Azman, Syafie"
 paginate = 3 # for demonstration of pagination
