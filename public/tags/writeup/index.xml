@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writeup on Bluesify Blog</title>
-    <link>http://localhost:1313/tags/writeup/</link>
+    <link>http://localhost:1313/blusifyblog.github.io/tags/writeup/</link>
     <description>Recent content in Writeup on Bluesify Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Bluesify Solutions | By Firdaus Khairuddin, Aizzat Azman, Syafie</copyright>
     <lastBuildDate>Mon, 13 May 2024 20:46:19 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/writeup/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blusifyblog.github.io/tags/writeup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DevVortex HTB Writeup</title>
-      <link>http://localhost:1313/post/devvortex-writeup/</link>
+      <link>http://localhost:1313/blusifyblog.github.io/post/devvortex-writeup/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/devvortex-writeup/</guid>
+      <guid>http://localhost:1313/blusifyblog.github.io/post/devvortex-writeup/</guid>
       <description>Author Aizzat Azman Syafie Summary : We found 2 open ports(22, 80). We fuzz and found other subdomain which lead to directory of Joomla CMS Login Page that is vulnerable and allow us to extract DB user and password that is also used to login to the CMS. The CMS has template that allow us to inject PHP code, where we get reverse shell. We login to mysql using found credential from Joomla vulnerability and crack other user to escalate our privilege.</description>
     </item>
   </channel>
