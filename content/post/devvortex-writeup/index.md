@@ -15,7 +15,7 @@ image = "images/devvortex.png"
 
 ## Author
 * Aizzat Azman
-* Syafie
+* Syafiee
 
 ## Summary :
 
