@@ -20,4 +20,4 @@ Writer & Maintainer
 
 * Firdaus Khairuddin
 * Aizzat Amdan
-* Syafie
+* Syafiee

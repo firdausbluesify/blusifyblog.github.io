@@ -1,6 +1,6 @@
 baseURL = "https://gohugo.io"
 title = "Bluesify Blog"
-copyright = "Bluesify Solutions | By Firdaus Khairuddin, Aizzat Azman, Syafie"
+copyright = "Bluesify Solutions | By Risk & Advisory"
 paginate = 3 # for demonstration of pagination
 languageCode = "en"
 defaultContentLanguage = "en"
